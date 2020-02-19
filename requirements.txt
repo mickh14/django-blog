@@ -1,2 +1,4 @@
 Django==1.11.24
+Pillow==7.0.0
 pytz==2019.3
+virtualenvwrapper==4.8.4
